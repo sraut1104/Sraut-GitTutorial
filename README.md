@@ -1,2 +1,4 @@
 # Sraut-GitTutorial
-Learning Git and GitHub
+Learning Git and GitHu
+<br>
+Author - SUDIP RAUT
