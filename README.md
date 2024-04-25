@@ -1,4 +1,4 @@
 # Sraut-GitTutorial
 Learning Git and GitHu
 <br>
-Author - SUDIP RAUT
+Author - SUDIP RAUT(Developer)
